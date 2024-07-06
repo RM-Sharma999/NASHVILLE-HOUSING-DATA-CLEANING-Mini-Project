@@ -11,6 +11,7 @@ Technologies used:
 
 • Excel
 
+
 Cleaning Process:
 
 • Downloaded the dataset
