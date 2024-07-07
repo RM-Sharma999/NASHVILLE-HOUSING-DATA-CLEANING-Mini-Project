@@ -1,7 +1,7 @@
 # Nashville Housing Data Cleaning Mini Project
 
 
-Practiced a wide range of SQL queries including Aggregate Functions, Joins, Self Jions, Window Functions, CTEs, Temp Tables and Views to clean this dataset.
+Practiced a wide range of SQL queries including Aggregate Functions, Joins, Self Joins, Window Functions, CTEs, Temp Tables and Views to clean this dataset.
 
 Queries:  https://github.com/RM-Sharma999/NASHVILLE-HOUSING-DATA-CLEANING-Mini-Project/blob/main/Nashville%20Housing%20Data%20Cleaning%20Portfolio%20Project.sql
 
